@@ -1,5 +1,4 @@
-# CS611-Assignment 2
-## Name of Assignment: Super TTT, Assignment 1 & 2
+## Name of Assignment: Super TTT
 ---------------------------------------------------------------------------
 Name: Chengkai Yang
 Email:  cyang23@bu.edu
